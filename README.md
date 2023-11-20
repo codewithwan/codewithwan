@@ -25,6 +25,3 @@
 
 </a>
 
-<a href="https://storybook.js.org" target="_blank">
-  <img align="left" title="Storybook" alt="Storybook" width="40px" src="./assets/storybook-logo.svg" />
-</a>
