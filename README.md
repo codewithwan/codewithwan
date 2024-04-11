@@ -1,6 +1,6 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-### My name is Ridwan and I'm a junior developer.
+### My name is Ridwan, aspiring junior developer with a passion for Dart and expertise in Flutter.
   
 # 💫 About Me :
 #### I'm a beginner in programming, so I'm still in the learning stage to get better.
