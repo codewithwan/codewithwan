@@ -4,7 +4,7 @@
   
 # 💫 About Me :
 #### I'm a beginner in programming, so I'm still in the learning stage to get better.
-🌍  I'm based in Semarang, Indonesia<br>✉️  You can contact me at codewithwan@gmail.com
+🌍  I'm based in Semarang, Indonesia<br>📚 Currently studying at Semarang State Polytechnic<br>✉️  You can contact me at codewithwan@gmail.com
 
 # 💻 Tech Stack:
 ###
