@@ -12,7 +12,7 @@
 
 # 📊 GitHub Stats:
 ###
-![](https://github-readme-stats.vercel.app/api?username=codewithwan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=codewithwan&theme=dark&hide_border=false&include_all_commits=true&count_private=true) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codewithwan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithwan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
