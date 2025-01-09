@@ -23,7 +23,7 @@
 #### I'm a beginner in programming, so I'm still in the learning stage to get better.
 🌍  I'm based in Semarang, Indonesia<br>📚 Currently studying at Semarang State Polytechnic<br>✉️  You can contact me at codewithwan@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/codewithwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codewithwan" height="30" width="40" /></a>
 <a href="https://instagram.com/codewithwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithwan" height="30" width="40" /></a>
