@@ -1,4 +1,4 @@
-<table style="border: none;">  
+<table style="border: none;">   
   <tr> 
     <td style="border: none;"> 
       <a href="https://git.io/typing-svg">
