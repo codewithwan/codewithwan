@@ -1,70 +1,97 @@
-<table style="border: none;">    
-  <tr>   
-    <td style="border: none;"> 
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Muhammad+Ridwan+🚀" alt="Typing SVG 1" />
-      </a>
-      <a href="https://git.io/typing-svg"> 
-        <img src="https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Nice+to+meet+you+👋" alt="Typing SVG 2" />
-      </a>
-    </td>
-    <td style="border: none;">
-      <a href="#" target="_blank">
-        <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" />
-      </a>
-    </td>
-  </tr>
-</table>
- 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-### My name is Ridwan, aspiring developer exploring the world of mobile & web development.
-  
-# 💫 About Me :
-#### I'm a beginner in programming, so I'm still in the learning stage to get better.
-🌍  I'm based in Semarang, Indonesia<br>📚 Currently studying at Semarang State Polytechnic<br>✉️  You can contact me at codewithwan@gmail.com
-
-<h3 align="left">Connect with me :</h3>
-<p align="left">
-<a href="https://linkedin.com/in/codewithwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codewithwan" height="30" width="40" /></a>
-<a href="https://instagram.com/codewithwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithwan" height="30" width="40" /></a>
-<a href="https://medium.com/@codewithwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@codewithwan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@codewithwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithwan" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> <br>
-
-![wan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=codewithwan&custom_title=@codewithwan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=006D31&line=006D31&point=006D31&area_color=006D31&title_color=FFFFFF&area=true)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
 <div align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=codewithwan&theme=whatsapp-dark2&card_width=830" alt="GitHub Streak" />
-    </a>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Ridwan&fontColor=ffffff&fontSize=90&stroke=0000&animation=twinkling&fontAlignY=40&desc=aka%20codewithwan&descAlignY=60&descSize=30" width="100%" />
 </div>
-
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-        <img height=200 src="https://github-readme-stats.vercel.app/api?username=codewithwan&show_icons=true&theme=gotham#gh-dark-mode-only" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-        <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithwan&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-        <img height=200 src="https://github-readme-stats.vercel.app/api?username=codewithwan&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-        <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithwan&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
-    </a>
-</div>
-
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <a href="https://github.com/codewithwan"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3500&pause=300&color=6C5CE7&center=true&vCenter=true&width=600&lines=console.log('Hello+World!');+//+I'm+Ridwan;import+{+Experience+}+from+'web-development';;composer+require+ridwan/awesome-code;const+MERN+=+['MongoDB',+'Express',+'React',+'Node'];" alt="Typing SVG" /></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<!-- Tech Radar Animation -->
+<p align="center">
+  <img height="100" width="100" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" />
+  <img height="100" width="100" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" />
+  <img height="100" width="100" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" />
+  <img height="100" width="100" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="200" />
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=codewithwan&label=Profile%20views&color=006D31&style=flat" alt="codewithwan" /> </p>
+<!-- More Animated Icons -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100" />
+</div>
 
+## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441d-a892-a4f5893fb8e6.gif" width="30"> About Me
+
+```js
+class Developer {
+  constructor() {
+    this.name = "Ridwan";
+    this.alias = "codewithwan";
+    this.role = "Fullstack Developer";
+    this.languageSpoken = ["en_US", "code"];
+    this.currentlyExploring = "Microservices Architecture";
+  }
+  
+  sayHi() {
+    console.log("Thanks for dropping by! Let's build something epic together!");
+  }
+  
+  workWith() {
+    return {
+      frontEnd: {
+        frameworks: ["React", "Next.js"],
+        styling: ["Tailwind CSS"],
+        state: ["Redux", "Context API"],
+      },
+      backEnd: {
+        js: ["Node.js", "Express", "NestJS"],
+        php: ["Laravel"],
+      },
+      devOps: ["Docker", "Nginx", "GitHub Actions"],
+      architecture: ["Microservices", "Event-Driven", "RESTful APIs"]
+    };
+  }
+}
+
+// Initialize
+const ridwan = new Developer();
+ridwan.sayHi();
+```
+
+<br>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> My Digital Toolbox
+
+<div align='center'>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,nestjs,laravel,php,docker,nginx,github,git,linux" />
+</div>
+
+
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithwan&theme=radical&hide_border=true&background=0D1117" />
+</div>
+<br>
+
+## <img src="https://user-images.githubusercontent.com/74038190/214644147-8d8f014c-2571-42d8-9927-7b85DF215128.gif" width="30"> Connect Across the Multiverse
+<div align='center'>
+<a href="https://codewithwan.tech" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" />
+</a>
+<a href="https://codewithwan.tech" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100" />
+</a>
+<a href="https://codewithwan.tech" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100" />
+</a>
+
+</div>
+
+<div align='center'>
+  <img src="https://komarev.com/ghpvc/?username=codewithwan&label=Profile%20visits&color=6C5CE7&style=for-the-badge" alt="Profile visits" />
+</div>
