@@ -26,7 +26,7 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100" />
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441d-a892-a4f5893fb8e6.gif" width="30"> About Me
+## About Me
 
 ```js
 class Developer {
@@ -78,7 +78,7 @@ ridwan.sayHi();
 </div>
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/214644147-8d8f014c-2571-42d8-9927-7b85DF215128.gif" width="30"> Connect Across the Multiverse
+## Connect Across the Multiverse
 <div align='center'>
 <a href="https://codewithwan.tech" target="_blank">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" />
