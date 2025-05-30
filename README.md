@@ -6,7 +6,7 @@
   <a href="https://github.com/codewithwan"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3500&pause=300&color=6C5CE7&center=true&vCenter=true&width=600&lines=console.log('Hello+World!');+//+I'm+Ridwan;import+{+Experience+}+from+'web-development';;composer+require+ridwan/awesome-code;const+MERN+=+['MongoDB',+'Express',+'React',+'Node'];" alt="Typing SVG" /></a>
 </p>
 
-<!-- Tech Radar Animation -->
+<!-- Tech Radar Animation --> 
 <p align="center">
   <img height="100" width="100" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" />
   <img height="100" width="100" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" />
