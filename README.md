@@ -1,3 +1,4 @@
+<!--
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Ridwan&fontColor=ffffff&fontSize=90&stroke=0000&animation=twinkling&fontAlignY=40&desc=aka%20codewithwan&descAlignY=60&descSize=30" width="100%" />
 </div> 
@@ -5,8 +6,9 @@
 <p align="center">
   <a href="https://github.com/codewithwan"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3500&pause=300&color=6C5CE7&center=true&vCenter=true&width=600&lines=console.log('Hello+World!');+//+I'm+Ridwan;import+{+Experience+}+from+'web-development';;composer+require+ridwan/awesome-code;const+MERN+=+['MongoDB',+'Express',+'React',+'Node'];" alt="Typing SVG" /></a>
 </p> 
+--> 
 
-<!-- Tech Radar Animation --> 
+<!-- Tech Radar Animation 
 <p align="center">
   <img height="100" width="100" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" />
   <img height="100" width="100" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" />
@@ -14,8 +16,9 @@
   <img height="100" width="100" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" />
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="200" />
 </p>
+--> 
 
-<!-- More Animated Icons -->
+<!-- More Animated Icons
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" />
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" />
@@ -24,7 +27,10 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100" />
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100" />
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100" />
-</div>
+</div> 
+ -->
+
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fcodewithwan857b4.png?alt=media)
 
 ## About Me
 
