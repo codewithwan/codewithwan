@@ -1,0 +1,33 @@
+{
+  "handle": "codewithwan",
+  "name": "Muhammad Ridwan",
+  "role": "fullstack engineer, crafting smooth UX",
+  "location": "Indonesia",
+  "stack": "Rust, Go & TypeScript",
+  "streak": 365,
+  "song": "About You",
+  "artist": "The 1975",
+  "lyrics": [
+    "Do you think I have forgotten?",
+    "Do you think I havе forgotten",
+    "About you?"
+  ],
+  "output": "assets/awan.gif",
+  "scenes": [
+    { "act": "wave",     "say": "hi there! i'm {name}" },
+    { "act": "present",  "say": "{role}" },
+    { "act": "stroll",   "say": "based in {location}" },
+    { "act": "rocket",   "say": "i build things, with {stack}" },
+    { "act": "launch",   "say": "...then watch 'em take off!" },
+    { "act": "bake",     "say": "and when i'm hungry, i bake" },
+    { "act": "campfire", "say": "{streak}-day streak, still going" },
+    { "act": "sing" },
+    { "act": "soccer",   "say": "then a bit of football" },
+    { "act": "sleep",    "say": "okay... nap time, zzz" }
+  ]
+}
+
+
+
+
+
