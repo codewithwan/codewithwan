@@ -37,45 +37,6 @@
 
 ![awan](assets/awan.gif)
 
-## About Me
-
-```js
-class Developer {
-  constructor() {
-    this.name = "Ridwan";
-    this.alias = "codewithwan";
-    this.role = "Fullstack Developer";
-    this.languageSpoken = ["en_US", "code"];
-    this.currentlyExploring = "Microservices Architecture";
-  }
-  
-  sayHi() {
-    console.log("Thanks for dropping by! Let's build something epic together!");
-  }
-  
-  workWith() {
-    return {
-      frontEnd: {
-        frameworks: ["React", "Next.js"],
-        styling: ["Tailwind CSS"],
-        state: ["Redux", "Context API"],
-      },
-      backEnd: {
-        js: ["Node.js", "Express", "NestJS"],
-        php: ["Laravel"],
-      },
-      devOps: ["Docker", "Nginx", "GitHub Actions"],
-      architecture: ["Microservices", "Event-Driven", "RESTful APIs"]
-    };
-  }
-}
-
-// Initialize
-const ridwan = new Developer();
-ridwan.sayHi();
-```
-
-<br>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> My Digital Toolbox
 
