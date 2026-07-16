@@ -3,25 +3,16 @@ on:
   push:
     branches: [main, master]
     paths: ["awan.json"]
+  schedule:
+    - cron: "0 3 * * *"
   workflow_dispatch:
-permissions:
-  contents: write
+
 jobs:
   awan:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: dtolnay/rust-toolchain@stable
-      - run: cargo install --git https://github.com/codewithwan/awan awan-profile
-      - run: awan-profile whoami --config awan.json
-      - name: Shrink the GIF
-        run: |
-          sudo apt-get update && sudo apt-get install -y gifsicle
-          gifsicle -O3 --lossy=80 --colors 64 assets/awan.gif -o assets/awan.gif
-      - name: Commit the result
-        run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/awan.gif
-          git commit -m "chore: refresh awan profile" || echo "no changes"
-          git push
+    uses: codewithwan/awan/.github/workflows/profile.yml@v0
+    permissions:
+      contents: write
+    with:
+      brag_over: 100
+      brag_say: "i'm so excited!"
+      cope_say: "...i'll fix that, promise"
