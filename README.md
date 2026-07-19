@@ -45,9 +45,11 @@
 </div>
 
 
+
+![my github, at a glance](assets/stats-banner.gif)
+
 <div align="center">
   <!-- <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithwan&theme=radical&hide_border=true&background=0D1117" /> -->
-  ![my github, at a glance](assets/stats-banner.gif)
 </div>
 <br>
 
