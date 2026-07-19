@@ -16,3 +16,4 @@ jobs:
       brag_over: 100
       brag_say: "i'm so excited!"
       cope_say: "...i'll fix that, promise"
+      stats_banner: assets/stats-banner.gif   
