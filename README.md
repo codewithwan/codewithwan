@@ -42,12 +42,13 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,nestjs,laravel,php,docker,nginx,github,git,linux" />
 </div>
 
+<br>
+
 ![my github, at a glance](assets/stats-banner.gif)
 
 <div align="center">
   <!-- <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithwan&theme=radical&hide_border=true&background=0D1117" /> -->
 </div>
-<br>
 
 ## Connect Across the Multiverse
 <div align='center'>
